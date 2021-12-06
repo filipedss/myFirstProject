@@ -1,3 +1,18 @@
+body{
+ 
+}
+
 .menu{
     background-color: #252323;
+    height: 60px;
+}
+
+main {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+
+.logo {
+    padding: 15px;
 }
